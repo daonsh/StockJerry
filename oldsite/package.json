@@ -1,0 +1,22 @@
+{
+  "name": "stockjerry",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000S\u0000t\u0000o\u0000c\u0000k\u0000J\u0000e\u0000r\u0000r\u0000y\u0000\r\u0000 \u0000",
+  "main": "servestatic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daonsh/StockJerry.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daonsh/StockJerry/issues"
+  },
+  "homepage": "https://github.com/daonsh/StockJerry#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
